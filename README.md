@@ -129,4 +129,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
+<p align="center">
+  <img alt="DesafioDatabaseUpload" src="https://user-images.githubusercontent.com/12499627/83331337-f7c05980-a26b-11ea-921b-d3d406a29eaf.PNG" />
+</p>
+
 ✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/).
